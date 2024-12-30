@@ -1,4 +1,4 @@
-package com.example;
+package com.jidendiran;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
